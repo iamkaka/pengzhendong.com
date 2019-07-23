@@ -1,0 +1,111 @@
+a:link {text-decoration: none;color:black;}
+a:visited {text-decoration:none;color:white;}
+a:hover  {color:red;}
+a:active {color:orange;text-decoration:blink;}
+
+
+body{
+	font-family: "Microsoft Yahei";
+	background: #fff;
+}
+
+@font-face{
+	font-family: ziti;
+	src:url('../css/ziti.ttf'),
+		url('../css/ziti.woff'),
+		url('../css/ziti.eot');
+}
+
+.top{
+	height: 80px;
+	background-color: black;
+	margin-top: -10px;
+	padding: 25px;
+	color: white;
+	font-size: 24px;
+	text-align: left;
+}
+
+.about{
+	float: left;
+	margin-top: 24px;
+	margin-bottom: 48px;
+	width: 70%;
+	margin-right:15%;
+	margin-left: 15%;
+	color: #999999;
+	font-size: 36px;
+}
+
+.headline{
+	font-size: 48px;
+}
+
+.about a:link{color:#44b76f;}
+.about a:visited{color:#44b76f;}
+.about a:hover{color: red}
+
+.contact{
+	text-align: center;
+	font-size: 24px;
+	height: 150px;
+}
+
+.douban {
+	height: 48px;
+	width: 48px;
+	margin-left: 42%;
+	background: url(../pictures/douban1.png)no-repeat;
+	margin-top: 10px;
+	float: left;
+}
+
+.douban:hover{
+	background: url(../pictures/douban2.png)no-repeat;
+}
+
+.zhihu {
+	height: 48px;
+	width: 48px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background: url(../pictures/zhihu1.png)no-repeat;
+	float: left;
+}
+
+.zhihu:hover{
+	background: url(../pictures/zhihu2.png)no-repeat;
+}
+
+.weibo {
+	margin-left: 20px;
+	height: 48px;
+	width: 48px;
+	margin-top: 10px;
+	background: url(../pictures/weibo1.png)no-repeat;
+	float: left;
+}
+
+.weibo:hover{
+	background: url(../pictures/weibo2.png)no-repeat;
+}
+
+.footer a:link {text-decoration: none;color:white;}
+.footer a:hover  {color:blue;}
+
+.footer{
+	float: left;
+	width: 100%;
+	margin-top: 100px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	background-color: black;
+	color: white;
+	font-size: 18px;
+}
+
+.col-md-4{
+	width: 33%;
+	float: left;
+	color: white;
+}
