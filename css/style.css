@@ -109,3 +109,24 @@ body{
 	float: left;
 	color: white;
 }
+
+.jieshao1{
+	font-family: Micriosoft Yahei;
+	font-size: 48px;
+	margin-left: 40%;
+	margin-top: 36px;
+}
+
+.jieshao2{
+	font-family: Micriosoft Yahei;
+	font-size: 24px;
+	margin-left: 100px;
+	margin-top: 36px;
+}
+
+.jieshao3{
+	font-family: Micriosoft Yahei;
+	font-size: 18px;
+	margin-left: 100px;
+	margin-top: 24px;
+}
