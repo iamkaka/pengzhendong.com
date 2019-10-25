@@ -1,0 +1,100 @@
+a:link {text-decoration: none;color:black;}
+a:visited {text-decoration:none;color:#000000;}
+a:hover  {color:red;}
+a:active {text-decoration:blink;color:orange;}
+
+body{
+	font-family: "Microsoft Yahei";
+	background: #D4D4D4;
+}
+
+.top1{
+	height: 80px;
+	width: 50%;
+	float: left;
+	background-color: black;
+	font-size: 24px;
+	color: white;
+	text-align: left;
+	padding: 20px;
+}
+
+.top2{
+	height: 80px;
+	width: 50%;
+	float: right;
+	background-color: black;
+	font-size: 24px;
+	color: white;
+	text-align: right;
+	padding: 20px;
+}
+
+.top2 a:link {text-decoration: none;color:white;}
+.top2 a:hover  {color:red;}
+
+.daohang1{
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	padding-top: 10px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	padding-left: 3%;
+	background-color: #f0f8ff;
+	border-radius: 8px;
+	font-size: 24px;
+}
+
+.daohang2{
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	padding-top: 10px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	padding-left: 3%;
+	background-color: #f0f8ff;
+	border-radius: 8px;
+	font-size: 24px;
+}
+
+.daohang3{
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	padding-top: 10px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	padding-left: 3%;
+	background-color: #f0f8ff;
+	border-radius: 8px;
+	font-size: 24px;
+}
+
+.footer{
+	float: left;
+	width: 100%;
+	margin-top: 100px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	background-color: black;
+	color: white;
+	font-size: 18px;
+}
+
+.col-md-4{
+	width: 33%;
+	float: left;
+	color: white;
+}
+
+.footer a:link {text-decoration: none;color:white;}
+.footer a:visited{text-decoration: none;color: white;}
+.footer a:hover  {color:red;}
