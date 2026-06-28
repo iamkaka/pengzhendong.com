@@ -1,5 +1,1 @@
-@echo off
-echo 启动博客预览服务器...
-cd /d "%~dp0"
-npm run dev
-pause
+QGVjaG8gb2ZmCmVjaG8g5ZCv5Yqo5Y2a5a6i6aKE6KeI5pyN5Yqh5ZmoLi4uCmNkIC9kICIlfmRwMCIKbnBtIHJ1biBkZXYKcGF1c2UK
