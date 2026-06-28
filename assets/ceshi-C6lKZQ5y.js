@@ -1,1 +1,35 @@
-Y29uc3Qgcj1gLS0tXHIKdGl0bGU6ICLor5Xor5XnnIsiXHIKZGF0ZTogIjIwMjYtMDYtMjgiXHIKdGFnczogWyLpmo/nrJQiLCAi55Sf5rS7Il1ccgpleGNlcnB0OiAi5paH56ug5pGY6KaBIlxyCi0tLVxyClxyCiMgXHIKXHIKPuaYr+S4jeaYr+WvueeUn+a0u+S4jeWkqua7oeaEj1xyCj5ccgo+5b6I5LmF5rKh5pyJ56yR6L+H5Y+I5LiN55+l5Li65L2VXHIKPlxyCj7ml6LnhLbkuI3lv6vkuZDlj4jkuI3llpzmrKLov5nph4xccgo+XHIKPuS4jeWmguS4gOi3r+WQkeilv+WOu+Wkp+eQhlxyClxyClxyCueGn+aCieaIkeeahOS6uumDveefpemBk+aIkei/mOaYr+W+iOWWnOasouWkp+eQhueahO+8jOi/meWHoOW5tOS5n+WOu+i/h+WlveWHoOasoe+8jOaJgOS7peaIkeS8mumAieaLqeS4gOS6m+Wkp+eQhueahOW9seinhuWJp+S4juS5pueci+OAguacgOi/keaIkeWwseivu+WujOS6huiLseWbveS6uuiJvuekvOWHr+eahOOAiuWkp+eQhuS4gOW5tOOAi+OAglxyClxyCuS4gOS4quWcqOWMl+S6rOa8guaziuS6huWNgeWkmuW5tOeahOiLseWbveS6uu+8jOWcqOmBremBh+aEn+aDheWPmOaVheS7peWQju+8jOWcqOS4ieWNgeWkmuWygeeahOaXtuWAmeWBmuWHuuS6huS4gOS4quWGs+Wumu+8jOmAg+emu+WMl+S6rOS4gOi3r+WQkeilv+WOu+Wkp+eQhu+8jOWOu+i/h+S4gOenjeabtOWuiemdmeeahOeUn+a0u++8jOWBmuiHquW3seaDs+WBmueahOS6i+aDhe+8jOaJvuWIsOecn+ato+eahOiHquW3seOAglxyClxyCui/meacrOS5puiusOW9leS6huS9nOiAheWcqOWkp+eQhuS4gOW5tOeahOeUn+a0u++8jOS7luWSjOW+iOWkmuWOu+Wkp+eQhueahOS6uuS4gOagt++8jOmAmui/h+KAnOaOoumZouKAneWvu+aJvuiHquW3seeahOmZouWtkO+8jOmAmui/h+ijheS/ruiHquW3seeahOmZouWtkOadpemHjeaWsOaehOW7uuiHquW3seeahOeUn+a0u++8jOmAmui/h+iupOivhuaWsOeahOS6uuadpeW/mOaOiei/h+WOu+eahOS6uu+8jOmAmui/h+eLrOWkhOaYjueZveiHquW3seeahOecn+ato+aDs+imgeeahOeUn+a0u+OAglxyClxyCui/meacrOS5puS7peaYpeWkj+eni+WGrOWbm+S4quWto+iKguWIhuS4uuWbm+S4queroOiKgu+8jOaYpeWkqeS4h+eJqeWkjeiLj+S5n+aYr+S7luWcqOWkp+eQhuaWsOeUn+a0u+eahOW8gOerr++8m+Wkj+Wkqee7muS4vee7veaUvuS5n+iuqeS7luacieabtOWkmueyvuWKm+WOu+inguWvn+Wkp+eQhuOAgeinguWvn+Wkp+eQhueahOS6uuS7rO+8m+eni+WkqeWcqOaUtuiOt+S4remHjeaWsOiupOivhuiHquaIke+8m+WGrOWkqeWcqOWugemdmeS4remHjeaWsOaJvuWIsOW9kuWxnuOAglxyClxyCui/meacrOS5pumHh+eUqOWPjOe6v+WPmeS6i++8jOS4gOadoee6v+WQkeWGheiusOW9leiHquW3seWcqOWkp+eQhueahOaXpeW4uOeUn+a0u++8jOWPpuS4gOadoee6v+WQkeWkluaYr+WvueWQhOenjeWkp+eQhuS6uueahOinguWvn++8jOato+aYr+i/meenjeaWueW8j+iuqeaIkeS7rOeci+WIsOS6huKAnOWkp+eQhuemj+WwvOS6muKAneagh+etvuiDjOWQjuabtOWkjeadguabtOecn+WunueahOmdouiyjOOAglxyClxyCuWcqOWkp+eQhuS5n+W5tuS4jeiDveS4juS4lumalOe7ne+8jOW+iOWkmuS6uuaQrOWIsOWkp+eQhuS5n+S4jeaYr+S4uuS6huWvu+aJvuS7gOS5iOiAjOaYr+S4uuS6humAg+mBv+S7gOS5iO+8jOS9humAg+mBv+W5tuS4jeiDveino+WGs+mXrumimO+8jOWPquaYr+aKiumXrumimOS7juWMl+S6rC/kuIrmtbcv562J5Zyw6L2s56e75Yiw5LqG5aSn55CG44CC5omA5Lul5LuF5LuF5piv5pCs5LqG5a6277yM5Y+q5pyJ5aSW55WM55qE5pS55Y+Y6L+Y5LiN5aSf77yM6L+Y6ZyA6KaB5YaF5b+D55qE5pS55Y+Y77yM6L+Z5Lmf5omN5piv5pyA6Zq+55qE5Zyw5pa544CCXHIKXHIK5pyA5ZCO5L2c6ICF5Lmf5rKh5YOP5oiR5Lus5omA5pyf5b6F55qE6YKj5qC355WZ5Zyo5aSn55CG77yM6ICM5piv5Zyo5aSn55CG55Sf5rS75LqG5LiJ5bm05ZCO5Zue5Yiw5LqG5YyX5Lqs44CC6L+Z5oGw5oGw5piv6L+Z5pys5Lmm5pyA5LiN6bih5rGk44CB5Lmf5pyA54+N6LS155qE5Zyw5pa544CC5a6D5rKh5pyJ57uZ5oiR5Lus5LiA5LiqIOKAnOS7juatpOWcqOiLjeWxsea0sea1t+i+uei/h+S4iuW5uOemj+eUn+a0u+KAnSDnmoTnq6Xor53nu5PlsYDvvIzkuZ/msqHmnInotKnljZYg4oCc6L6e6IGM5Y675aSn55CG5bCx6IO96I635b6X5paw55Sf4oCdIOeahOW7ieS7t+W5u+aDs+OAguWug+WPquaYr+iAgeiAgeWunuWunuWcsOWRiuivieS9oO+8muWkp+eQhuS4jeaYr+S4gOS4quiDveW4ruS9oOS4gOmUrua4hembtuS6uueUn+eahOWbnuaUtuerme+8jOWug+WPquaYr+S4gOmdoumVnOWtkO+8jOeFp+ingeS9oOaJgOaciemAg+mBv+eahOmXrumimO+8jOS5n+eFp+ingeS9oOWGheW/g+ecn+ato+eahOa4tOacm+OAglxyClxyCuaJgOS7pe+8jOWkp+eQhueahOaEj+S5ieS7juadpeS4jeaYr+iuqeaIkeS7rOawuOi/nOeVmeWcqOmCo+mHjO+8jOiAjOaYr+iuqeaIkeS7rOacieacuuS8muWBnOS4i+adpe+8jOWSjOiHquW3seWlveWlveWvueivneOAguWug+iuqeaIkeS7rOeci+WIsO+8jOeUn+a0u+WOn+adpeWPr+S7peacieWPpuS4gOenjeaJk+W8gOaWueW8j++8jOWOn+adpeaIkeS7rOS4jeW/heS4gOebtOWllOi3ke+8jOWOn+adpeW5s+WHoeeahOaXpeW4uOmHjOS5n+iXj+edgOW+iOWkmue+juWlveOAglxyClxyCuaEv+aIkeS7rOmDveiDveWcqOiHquW3seeahOeUn+a0u+mHjO+8jOaJvuWIsOWxnuS6juiHquW3seeahCAi5aSn55CGIuOAgmA7ZXhwb3J0e3IgYXMgZGVmYXVsdH07Cg==
+const r=`---\r
+title: "试试看"\r
+date: "2026-06-28"\r
+tags: ["随笔", "生活"]\r
+excerpt: "文章摘要"\r
+---\r
+\r
+# \r
+\r
+>是不是对生活不太满意\r
+>\r
+>很久没有笑过又不知为何\r
+>\r
+>既然不快乐又不喜欢这里\r
+>\r
+>不如一路向西去大理\r
+\r
+\r
+熟悉我的人都知道我还是很喜欢大理的，这几年也去过好几次，所以我会选择一些大理的影视剧与书看。最近我就读完了英国人艾礼凯的《大理一年》。\r
+\r
+一个在北京漂泊了十多年的英国人，在遭遇感情变故以后，在三十多岁的时候做出了一个决定，逃离北京一路向西去大理，去过一种更安静的生活，做自己想做的事情，找到真正的自己。\r
+\r
+这本书记录了作者在大理一年的生活，他和很多去大理的人一样，通过“探院”寻找自己的院子，通过装修自己的院子来重新构建自己的生活，通过认识新的人来忘掉过去的人，通过独处明白自己的真正想要的生活。\r
+\r
+这本书以春夏秋冬四个季节分为四个章节，春天万物复苏也是他在大理新生活的开端；夏天绚丽绽放也让他有更多精力去观察大理、观察大理的人们；秋天在收获中重新认识自我；冬天在宁静中重新找到归属。\r
+\r
+这本书采用双线叙事，一条线向内记录自己在大理的日常生活，另一条线向外是对各种大理人的观察，正是这种方式让我们看到了“大理福尼亚”标签背后更复杂更真实的面貌。\r
+\r
+在大理也并不能与世隔绝，很多人搬到大理也不是为了寻找什么而是为了逃避什么，但逃避并不能解决问题，只是把问题从北京/上海/等地转移到了大理。所以仅仅是搬了家，只有外界的改变还不够，还需要内心的改变，这也才是最难的地方。\r
+\r
+最后作者也没像我们所期待的那样留在大理，而是在大理生活了三年后回到了北京。这恰恰是这本书最不鸡汤、也最珍贵的地方。它没有给我们一个 “从此在苍山洱海边过上幸福生活” 的童话结局，也没有贩卖 “辞职去大理就能获得新生” 的廉价幻想。它只是老老实实地告诉你：大理不是一个能帮你一键清零人生的回收站，它只是一面镜子，照见你所有逃避的问题，也照见你内心真正的渴望。\r
+\r
+所以，大理的意义从来不是让我们永远留在那里，而是让我们有机会停下来，和自己好好对话。它让我们看到，生活原来可以有另一种打开方式，原来我们不必一直奔跑，原来平凡的日常里也藏着很多美好。\r
+\r
+愿我们都能在自己的生活里，找到属于自己的 "大理"。`;export{r as default};

@@ -1,1 +1,46 @@
-Y29uc3Qgbj1gLS0tCnRpdGxlOiAi5LiN5aaC5LiA6Lev5ZCR6KW/5Y675aSn55CG4oCU44CK5aSn55CG5LiA5bm044CL5Lmm6K+EIgpkYXRlOiAiMjAyNi0wNi0yOCIKdGFnczogWyLpmo/nrJQiLCAi55Sf5rS7IiwgIuS5puivhCJdCmV4Y2VycHQ6ICLlnKjlpKfnkIbnmoTov5nkuIDlubTvvIzkvZzogIXlrabkvJrkuoblpoLkvZXmtarotLnml7bpl7TvvIzlpoLkvZXmhaLmhaLnlJ/mtLvjgIIiCi0tLQoKIyDkuI3lpoLkuIDot6/lkJHopb/ljrvlpKfnkIbigJTjgIrlpKfnkIbkuIDlubTjgIvkuabor4QKCuacgOi/keivu+WujOS6huOAiuWkp+eQhuS4gOW5tOOAi++8jOW+iOacieaEn+inpuOAggoKIyMg5Li65LuA5LmI5piv5aSn55CGCgrkvZzogIXljp/mnKzmmK/ljJfkuqznmoTkuIDlkI3orr7orqHluIjvvIzpq5jljovlt6XkvZzvvIzlv6voioLlpY/nlJ/mtLvjgILmnInkuIDlpKnnqoHnhLbntK/kuobvvIzljZbmjonkuIDliIfvvIzkuIDot6/lkJHopb/vvIzliLDkuoblpKfnkIbjgIIKCuW+iOWkmuS6uuS8muivtO+8mui/meaYr+mAg+mBv+OAggoK5L2G5L2c6ICF6K+077ya6L+Z5LiN5piv6YCD6YG/77yM6L+Z5piv6YCJ5oup44CCCgojIyDmtarotLnnmoToibrmnK8KCuS5pumHjOacgOaJk+WKqOaIkeeahOS4gOaute+8mgoKPiDlnKjlpKfnkIbvvIzmiJHlrabkvJrkuoblj5HlkYbjgILkuI3mmK/pgqPnp40i5oiR5LiN55+l6YGT6KaB5bmy5LuA5LmIIueahOWPkeWRhu+8jOiAjOaYr+mCo+enjSLmiJHlsLHmmK/ku4DkuYjpg73kuI3mg7PlubIi55qE5Y+R5ZGG44CCCgrov5nnp43lj5HlkYbvvIzmmK/kuIDnp43og73lipvjgILkuIDnp43miJHku6znjrDku6Pkurrlh6DkuY7kuKflpLHnmoTog73lipvjgIIKCuaIkeS7rOiiq+iuree7g+W+l+avj+S4gOWIhumSn+mDveimgSLmnInnlKgi77yM5q+P5LiA56eS6YO96KaBIuS6p+WHuiLjgILkvYbkvZzogIXlnKjlpKfnkIbnmoTkuIDlubTvvIzorqnmiJHnnIvliLDlj6bkuIDnp43lj6/og73vvJoKCi0g5pep5LiK6YaS5p2l77yM5LiN5oCl552A55yL5omL5py677yM5Y+q5piv5ZCs5ZCs6bif5Y+rCi0g54Wu5LiA5aO26Iy277yM5Z2Q5Zyo6Zmi5a2Q6YeM77yM55yL552A5LqR5oWi5oWi6aOY6L+HCi0g6aqR552A6Ieq6KGM6L2m5Zyo5Y+k5Z+O6YeM5Lmx6L2s77yM5rKh5pyJ55uu55qE5ZywCi0g5ZKM6ZmM55Sf5Lq66IGK5aSp77yM6IGK5Yiw5aSq6Ziz5LiL5bGxCgrov5nkupvvvIzlnKjmlYjnjofkuJPlrrbnnLzph4zpg73mmK8i5rWq6LS5IuOAguS9huS9nOiAheivtO+8jOi/meS6m+aJjeaYr+eUn+a0u+OAggoKIyMg5YaZ5Zyo5pyA5ZCOCgror7vlrozov5nmnKzkuabvvIzmiJHlgZrkuobkuKrlhrPlrprvvJrliJvlu7rkuIDkuKrljZrlrqLvvIzorrDlvZXpgqPkupsi5peg55SoIueahOS4nOilv+OAggoK6L+Z5bCx5piv44CM5Lq655Sf5rWq6LS55oyH5Y2X44CN55qE55Sx5p2l44CCCgrlpoLmnpzkvaDkuZ/lnKjlr7vmib7kuIDnp43mhaLkuIvmnaXnmoTmlrnlvI/vvIzkuI3lpqjkuIDot6/lkJHopb/vvIzljrvlpKfnkIbjgILmiJbogIXvvIzlsLHlnKjkvaDnjrDlnKjnmoTln47luILvvIzmib7kuIDkuKrlronpnZnnmoTop5LokL3vvIzlj5HkuKrlkYbjgIIKCuavleern++8jOS6uueUn+S4jeaYr+S4gOWcuui1m+i3keOAguacieaXtuWAme+8jOi1sOW+l+aFouS4gOeCue+8jOaJjeiDveeci+W+l+a4healmuS4gOeCueOAggpgO2V4cG9ydHtuIGFzIGRlZmF1bHR9Owo=
+const n=`---
+title: "不如一路向西去大理—《大理一年》书评"
+date: "2026-06-28"
+tags: ["随笔", "生活", "书评"]
+excerpt: "在大理的这一年，作者学会了如何浪费时间，如何慢慢生活。"
+---
+
+# 不如一路向西去大理—《大理一年》书评
+
+最近读完了《大理一年》，很有感触。
+
+## 为什么是大理
+
+作者原本是北京的一名设计师，高压工作，快节奏生活。有一天突然累了，卖掉一切，一路向西，到了大理。
+
+很多人会说：这是逃避。
+
+但作者说：这不是逃避，这是选择。
+
+## 浪费的艺术
+
+书里最打动我的一段：
+
+> 在大理，我学会了发呆。不是那种"我不知道要干什么"的发呆，而是那种"我就是什么都不想干"的发呆。
+
+这种发呆，是一种能力。一种我们现代人几乎丧失的能力。
+
+我们被训练得每一分钟都要"有用"，每一秒都要"产出"。但作者在大理的一年，让我看到另一种可能：
+
+- 早上醒来，不急着看手机，只是听听鸟叫
+- 煮一壶茶，坐在院子里，看着云慢慢飘过
+- 骑着自行车在古城里乱转，没有目的地
+- 和陌生人聊天，聊到太阳下山
+
+这些，在效率专家眼里都是"浪费"。但作者说，这些才是生活。
+
+## 写在最后
+
+读完这本书，我做了个决定：创建一个博客，记录那些"无用"的东西。
+
+这就是「人生浪费指南」的由来。
+
+如果你也在寻找一种慢下来的方式，不妨一路向西，去大理。或者，就在你现在的城市，找一个安静的角落，发个呆。
+
+毕竟，人生不是一场赛跑。有时候，走得慢一点，才能看得清楚一点。
+`;export{n as default};
