@@ -398,6 +398,13 @@
       "latitude": 38.851,
       "note": "阿拉善盟",
       "region": "西北"
+    },
+    {
+      "name": "柳州",
+      "longitude": 109.412,
+      "latitude": 24.315,
+      "note": "柳州市",
+      "region": "华南"
     }
   ]
 }
